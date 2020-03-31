@@ -1,0 +1,33 @@
+.primary-color-bg {
+  background-color: #233247 !important;
+}
+
+.primary-color-text {
+  color: #233247 !important;
+}
+
+.secondary-color-text {
+  color: #ffd11d !important;
+}
+
+.secondary-color-bg {
+  background-color: #ffd11d !important;
+}
+
+.select-dropdown {
+  color: #ffd11d !important;
+}
+
+.section-intro {
+  margin-top: 100px;
+  min-width: 600px;
+  min-height: 400px;
+}
+
+.bla {
+  min-height: 500px;
+}
+
+.blash {
+  min-height: 200px;
+}
