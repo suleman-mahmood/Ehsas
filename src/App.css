@@ -14,20 +14,34 @@
   background-color: #ffd11d !important;
 }
 
-.select-dropdown {
-  color: #ffd11d !important;
+nav .ul {
+  margin-left: 300px !important;
 }
 
 .section-intro {
-  margin-top: 100px;
-  min-width: 600px;
+  min-height: 600px;
+  background-color: #f4f4f4;
+}
+
+.section-info {
+  min-height: 600px;
+}
+
+.section-shops {
+  min-height: 600px;
+  padding: 30px;
+}
+
+.section-safety {
+  min-height: 600px;
+  padding: 30px;
+}
+
+.rate-of-growth-graph {
+  min-height: 300px !important;
+}
+
+.google-maps {
+  background-color: white;
   min-height: 400px;
-}
-
-.bla {
-  min-height: 500px;
-}
-
-.blash {
-  min-height: 200px;
 }
